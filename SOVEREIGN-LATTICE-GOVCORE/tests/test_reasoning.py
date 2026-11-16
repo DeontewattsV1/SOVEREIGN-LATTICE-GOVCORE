@@ -1,5 +1,4 @@
 """Tests for Parallel Reasoning Engine."""
-import pytest
 from govcore.reasoning.engine import ParallelReasoningEngine, LaneResult
 
 

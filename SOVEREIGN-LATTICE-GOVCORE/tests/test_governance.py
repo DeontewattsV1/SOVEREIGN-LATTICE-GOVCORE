@@ -1,5 +1,4 @@
 """Tests for Governance Kernel."""
-import pytest
 from govcore.governance.kernel import GovernanceKernel, OperatingMode
 
 
