@@ -1,5 +1,4 @@
 """Tests for Model Router."""
-import pytest
 from govcore.routing.router import ModelRouter, RouteTarget, RoutingBudget
 
 

@@ -1,5 +1,4 @@
 """Tests for Human Protection Plane."""
-import pytest
 from govcore.human.protection import HumanProtectionPlane, ConfidenceLabel
 
 
